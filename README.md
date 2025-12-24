@@ -111,8 +111,7 @@ Sir Syed University of Engineering & Technology (CGPA: 3.6)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasad149&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadasad149&theme=radical)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muhammadasad149)](https://git.io/streak-stats)
 ---
 
 ### 📫 Let's Connect
